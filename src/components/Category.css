@@ -1,0 +1,68 @@
+
+#root{
+    background-color: #f3f3f3;
+    min-height: 150vh;
+    width: 100%;
+}
+
+
+.photo{
+
+    min-height : 200px;
+    min-width: 200px;
+}
+
+#btn{
+
+    height: 4rem;
+    width:  10rem;
+    font-weight: bold;
+
+}
+#btn:hover{
+
+    background-color: #bababa;
+}
+
+#btnver{
+    height: 4rem;
+    width:  10rem;
+}
+
+@media (max-width: 550px) {
+    #btn{
+
+        height: 2.5rem;
+        width:  6.4rem;
+        font-weight: bold;
+        font-size: 10px;
+    
+    }
+
+
+  }
+
+
+
+
+.bom{
+
+    border-radius: 50px;
+
+}
+.description{
+
+font-size: 1.5vh;
+font-weight: bold;
+}
+.p{
+
+    font-size: 1.5vh;
+}
+
+.prix{
+
+    font-size: 4vh;
+    font-weight: bold;
+}
+
