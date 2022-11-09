@@ -1,18 +1,21 @@
 {
   "files": {
     "main.css": "/test-react/static/css/main.f625cf4e.css",
-    "main.js": "/test-react/static/js/main.36dd6313.js",
+    "main.js": "/test-react/static/js/main.f0f0cd5d.js",
     "static/media/aeg.png": "/test-react/static/media/aeg.a8e9840e383f35f1d15b.png",
+    "static/media/pawpatrol.jpg": "/test-react/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
+    "static/media/tvsamsung.jpg": "/test-react/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
     "static/media/remote.jpg": "/test-react/static/media/remote.00e0b716233f0d639c9f.jpg",
+    "static/media/philipspae.jpg": "/test-react/static/media/philipspae.3e451f99f6ae8ef60769.jpg",
     "static/media/portatilhp.jpg": "/test-react/static/media/portatilhp.02286f15cb52a450700c.jpg",
     "static/media/mochilarato.jpg": "/test-react/static/media/mochilarato.2e1fbcdb2dfb974761a1.jpg",
     "static/media/maquina.jpg": "/test-react/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/test-react/index.html",
     "main.f625cf4e.css.map": "/test-react/static/css/main.f625cf4e.css.map",
-    "main.36dd6313.js.map": "/test-react/static/js/main.36dd6313.js.map"
+    "main.f0f0cd5d.js.map": "/test-react/static/js/main.f0f0cd5d.js.map"
   },
   "entrypoints": [
     "static/css/main.f625cf4e.css",
-    "static/js/main.36dd6313.js"
+    "static/js/main.f0f0cd5d.js"
   ]
 }
