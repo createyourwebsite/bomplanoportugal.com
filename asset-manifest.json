@@ -1,21 +1,21 @@
 {
   "files": {
-    "main.css": "/bomplanoportugal.com/static/css/main.f625cf4e.css",
-    "main.js": "/bomplanoportugal.com/static/js/main.14f01e94.js",
-    "static/media/aeg.png": "/bomplanoportugal.com/static/media/aeg.a8e9840e383f35f1d15b.png",
-    "static/media/pawpatrol.jpg": "/bomplanoportugal.com/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
-    "static/media/tvsamsung.jpg": "/bomplanoportugal.com/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
-    "static/media/remote.jpg": "/bomplanoportugal.com/static/media/remote.00e0b716233f0d639c9f.jpg",
-    "static/media/philipspae.jpg": "/bomplanoportugal.com/static/media/philipspae.3e451f99f6ae8ef60769.jpg",
-    "static/media/portatilhp.jpg": "/bomplanoportugal.com/static/media/portatilhp.02286f15cb52a450700c.jpg",
-    "static/media/mochilarato.jpg": "/bomplanoportugal.com/static/media/mochilarato.2e1fbcdb2dfb974761a1.jpg",
-    "static/media/maquina.jpg": "/bomplanoportugal.com/static/media/maquina.90e34a1fa838ac99cc23.jpg",
-    "index.html": "/bomplanoportugal.com/index.html",
-    "main.f625cf4e.css.map": "/bomplanoportugal.com/static/css/main.f625cf4e.css.map",
-    "main.14f01e94.js.map": "/bomplanoportugal.com/static/js/main.14f01e94.js.map"
+    "main.css": "/static/css/main.f625cf4e.css",
+    "main.js": "/static/js/main.cc8947ef.js",
+    "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
+    "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
+    "static/media/tvsamsung.jpg": "/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
+    "static/media/remote.jpg": "/static/media/remote.00e0b716233f0d639c9f.jpg",
+    "static/media/philipspae.jpg": "/static/media/philipspae.3e451f99f6ae8ef60769.jpg",
+    "static/media/portatilhp.jpg": "/static/media/portatilhp.02286f15cb52a450700c.jpg",
+    "static/media/mochilarato.jpg": "/static/media/mochilarato.2e1fbcdb2dfb974761a1.jpg",
+    "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
+    "index.html": "/index.html",
+    "main.f625cf4e.css.map": "/static/css/main.f625cf4e.css.map",
+    "main.cc8947ef.js.map": "/static/js/main.cc8947ef.js.map"
   },
   "entrypoints": [
     "static/css/main.f625cf4e.css",
-    "static/js/main.14f01e94.js"
+    "static/js/main.cc8947ef.js"
   ]
 }
