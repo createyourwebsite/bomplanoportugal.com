@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f625cf4e.css",
-    "main.js": "/static/js/main.25ea734b.js",
+    "main.js": "/static/js/main.ecb16e2e.js",
     "static/media/toast.jpg": "/static/media/toast.4d149d2d480a402e65d6.jpg",
     "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
     "static/media/maquinawhirpool.png": "/static/media/maquinawhirpool.85823013fb4d380ef2ee.png",
@@ -9,6 +9,8 @@
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
     "static/media/monster.jpg": "/static/media/monster.34211a0136d455926be0.jpg",
     "static/media/tvsamsung.jpg": "/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
+    "static/media/rx6600.jpg": "/static/media/rx6600.c4b4aaea0bd798444784.jpg",
+    "static/media/rx6700.jpg": "/static/media/rx6700.2c64c63c0b687280e407.jpg",
     "static/media/frigorifico.jpg": "/static/media/frigorifico.5680a4227e395cbfc9df.jpg",
     "static/media/remote.jpg": "/static/media/remote.00e0b716233f0d639c9f.jpg",
     "static/media/trampolim2.jpg": "/static/media/trampolim2.952f67afb7f1b7c1e43b.jpg",
@@ -19,10 +21,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.f625cf4e.css.map": "/static/css/main.f625cf4e.css.map",
-    "main.25ea734b.js.map": "/static/js/main.25ea734b.js.map"
+    "main.ecb16e2e.js.map": "/static/js/main.ecb16e2e.js.map"
   },
   "entrypoints": [
     "static/css/main.f625cf4e.css",
-    "static/js/main.25ea734b.js"
+    "static/js/main.ecb16e2e.js"
   ]
 }
