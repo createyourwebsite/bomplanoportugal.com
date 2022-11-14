@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f625cf4e.css",
-    "main.js": "/static/js/main.7cfead55.js",
+    "main.js": "/static/js/main.5c4ca3c9.js",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
     "static/media/rm1000x.jpg": "/static/media/rm1000x.1ff099d646361aa32a07.jpg",
     "static/media/toast.jpg": "/static/media/toast.4d149d2d480a402e65d6.jpg",
@@ -17,17 +17,16 @@
     "static/media/frigorifico.jpg": "/static/media/frigorifico.5680a4227e395cbfc9df.jpg",
     "static/media/remote.jpg": "/static/media/remote.00e0b716233f0d639c9f.jpg",
     "static/media/trampolim2.jpg": "/static/media/trampolim2.952f67afb7f1b7c1e43b.jpg",
-    "static/media/rx6800asrock.jpg": "/static/media/rx6800asrock.a27a21e2bb3a13d11eec.jpg",
     "static/media/trampolim.jpg": "/static/media/trampolim.c57a614acfe9e9bb8642.jpg",
     "static/media/portatilhp.jpg": "/static/media/portatilhp.02286f15cb52a450700c.jpg",
     "static/media/mochilarato.jpg": "/static/media/mochilarato.2e1fbcdb2dfb974761a1.jpg",
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.f625cf4e.css.map": "/static/css/main.f625cf4e.css.map",
-    "main.7cfead55.js.map": "/static/js/main.7cfead55.js.map"
+    "main.5c4ca3c9.js.map": "/static/js/main.5c4ca3c9.js.map"
   },
   "entrypoints": [
     "static/css/main.f625cf4e.css",
-    "static/js/main.7cfead55.js"
+    "static/js/main.5c4ca3c9.js"
   ]
 }
