@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.f625cf4e.css",
-    "main.js": "/static/js/main.394eeed5.js",
+    "main.js": "/static/js/main.c9f07afe.js",
     "static/media/maquinalavarloica.jpg": "/static/media/maquinalavarloica.2b07f4897d8556d8476f.jpg",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
     "static/media/3060.jpg": "/static/media/3060.310fc26b5471cfd88b13.jpg",
@@ -11,6 +11,7 @@
     "static/media/maquinawhirpool.png": "/static/media/maquinawhirpool.85823013fb4d380ef2ee.png",
     "static/media/ram32gb.jpg": "/static/media/ram32gb.ca869891137f029f33af.jpg",
     "static/media/legoharry.jpg": "/static/media/legoharry.5947c4386e381ad80ecf.jpg",
+    "static/media/tvsamsung2.jpg": "/static/media/tvsamsung2.c82d5b851dde92f11d62.jpg",
     "static/media/fritadeira.jpg": "/static/media/fritadeira.522a1bec72fe52de023c.jpg",
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
     "static/media/monster.jpg": "/static/media/monster.34211a0136d455926be0.jpg",
@@ -26,10 +27,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.f625cf4e.css.map": "/static/css/main.f625cf4e.css.map",
-    "main.394eeed5.js.map": "/static/js/main.394eeed5.js.map"
+    "main.c9f07afe.js.map": "/static/js/main.c9f07afe.js.map"
   },
   "entrypoints": [
     "static/css/main.f625cf4e.css",
-    "static/js/main.394eeed5.js"
+    "static/js/main.c9f07afe.js"
   ]
 }
