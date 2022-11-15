@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.6bf05a49.js",
+    "main.js": "/static/js/main.599b2e3d.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinalavarloica.jpg": "/static/media/maquinalavarloica.2b07f4897d8556d8476f.jpg",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
@@ -9,6 +9,7 @@
     "static/media/3060.jpg": "/static/media/3060.310fc26b5471cfd88b13.jpg",
     "static/media/rm1000x.jpg": "/static/media/rm1000x.1ff099d646361aa32a07.jpg",
     "static/media/toast.jpg": "/static/media/toast.4d149d2d480a402e65d6.jpg",
+    "static/media/frigorificohisense.jpg": "/static/media/frigorificohisense.c1a44e3270d639c10edf.jpg",
     "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
     "static/media/pccompleto.jpg": "/static/media/pccompleto.907c26be506cfc5c7537.jpg",
     "static/media/maquinawhirpool.png": "/static/media/maquinawhirpool.85823013fb4d380ef2ee.png",
@@ -32,10 +33,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.6bf05a49.js.map": "/static/js/main.6bf05a49.js.map"
+    "main.599b2e3d.js.map": "/static/js/main.599b2e3d.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.6bf05a49.js"
+    "static/js/main.599b2e3d.js"
   ]
 }
