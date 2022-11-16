@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.787fe24e.js",
+    "main.js": "/static/js/main.c0ac0d5c.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinalavarloica.jpg": "/static/media/maquinalavarloica.2b07f4897d8556d8476f.jpg",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
@@ -12,7 +12,6 @@
     "static/media/frigorificohisense.jpg": "/static/media/frigorificohisense.c1a44e3270d639c10edf.jpg",
     "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
     "static/media/pccompleto.jpg": "/static/media/pccompleto.907c26be506cfc5c7537.jpg",
-    "static/media/maquinawhirpool.png": "/static/media/maquinawhirpool.85823013fb4d380ef2ee.png",
     "static/media/mochilamarvel.jpg": "/static/media/mochilamarvel.2a10ae26fa3046db4ad4.jpg",
     "static/media/galaxywatch.jpg": "/static/media/galaxywatch.6bc3693e7af518f3b93c.jpg",
     "static/media/nespresso.jpg": "/static/media/nespresso.d3114c30a655f260f49f.jpg",
@@ -21,7 +20,6 @@
     "static/media/tvsamsung2.jpg": "/static/media/tvsamsung2.c82d5b851dde92f11d62.jpg",
     "static/media/fritadeira.jpg": "/static/media/fritadeira.522a1bec72fe52de023c.jpg",
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
-    "static/media/monster.jpg": "/static/media/monster.34211a0136d455926be0.jpg",
     "static/media/tvsamsung.jpg": "/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
     "static/media/rx6600.jpg": "/static/media/rx6600.c4b4aaea0bd798444784.jpg",
     "static/media/rx6700.jpg": "/static/media/rx6700.2c64c63c0b687280e407.jpg",
@@ -34,10 +32,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.787fe24e.js.map": "/static/js/main.787fe24e.js.map"
+    "main.c0ac0d5c.js.map": "/static/js/main.c0ac0d5c.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.787fe24e.js"
+    "static/js/main.c0ac0d5c.js"
   ]
 }
