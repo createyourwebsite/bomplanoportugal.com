@@ -1,8 +1,9 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.82c68930.js",
+    "main.js": "/static/js/main.370922bc.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
+    "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/cadeiranoblechair.jpg": "/static/media/cadeiranoblechair.5a45fb430cb19f5cb298.jpg",
     "static/media/maquinalavarloica.jpg": "/static/media/maquinalavarloica.2b07f4897d8556d8476f.jpg",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
@@ -33,10 +34,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.82c68930.js.map": "/static/js/main.82c68930.js.map"
+    "main.370922bc.js.map": "/static/js/main.370922bc.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.82c68930.js"
+    "static/js/main.370922bc.js"
   ]
 }
