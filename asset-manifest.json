@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.f3d70a7d.js",
+    "main.js": "/static/js/main.18c2c9b4.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/rx6800xt.jpg": "/static/media/rx6800xt.77bc97cd856163ed3b4d.jpg",
@@ -11,6 +11,7 @@
     "static/media/trolleyminnie.jpg": "/static/media/trolleyminnie.4c358c7b7e639821edcf.jpg",
     "static/media/3060.jpg": "/static/media/3060.310fc26b5471cfd88b13.jpg",
     "static/media/1660super.jpg": "/static/media/1660super.81b9f28e22cc6e87ab1d.jpg",
+    "static/media/tablet.jpg": "/static/media/tablet.3b9ec04bd75f2195c15a.jpg",
     "static/media/toast.jpg": "/static/media/toast.4d149d2d480a402e65d6.jpg",
     "static/media/frigorificohisense.jpg": "/static/media/frigorificohisense.c1a44e3270d639c10edf.jpg",
     "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
@@ -33,10 +34,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.f3d70a7d.js.map": "/static/js/main.f3d70a7d.js.map"
+    "main.18c2c9b4.js.map": "/static/js/main.18c2c9b4.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.f3d70a7d.js"
+    "static/js/main.18c2c9b4.js"
   ]
 }
