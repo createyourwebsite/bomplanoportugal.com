@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.690490ca.js",
+    "main.js": "/static/js/main.665d21aa.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/rx6800xt.jpg": "/static/media/rx6800xt.77bc97cd856163ed3b4d.jpg",
@@ -10,6 +10,7 @@
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
     "static/media/trolleyminnie.jpg": "/static/media/trolleyminnie.4c358c7b7e639821edcf.jpg",
     "static/media/3060.jpg": "/static/media/3060.310fc26b5471cfd88b13.jpg",
+    "static/media/babymoov.jpg": "/static/media/babymoov.ec393571c0d053a7dcf4.jpg",
     "static/media/1660super.jpg": "/static/media/1660super.81b9f28e22cc6e87ab1d.jpg",
     "static/media/tablet.jpg": "/static/media/tablet.3b9ec04bd75f2195c15a.jpg",
     "static/media/aegis.jpg": "/static/media/aegis.909ac2c0023631fda609.jpg",
@@ -23,7 +24,6 @@
     "static/media/legoharry.jpg": "/static/media/legoharry.5947c4386e381ad80ecf.jpg",
     "static/media/fritadeira.jpg": "/static/media/fritadeira.522a1bec72fe52de023c.jpg",
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
-    "static/media/tvsamsung.jpg": "/static/media/tvsamsung.9a78a7d7222fa7d7b093.jpg",
     "static/media/rx6700.jpg": "/static/media/rx6700.2c64c63c0b687280e407.jpg",
     "static/media/frigorifico.jpg": "/static/media/frigorifico.5680a4227e395cbfc9df.jpg",
     "static/media/remote.jpg": "/static/media/remote.00e0b716233f0d639c9f.jpg",
@@ -33,10 +33,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.690490ca.js.map": "/static/js/main.690490ca.js.map"
+    "main.665d21aa.js.map": "/static/js/main.665d21aa.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.690490ca.js"
+    "static/js/main.665d21aa.js"
   ]
 }
