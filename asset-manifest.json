@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.f3b1ccda.js",
+    "main.js": "/static/js/main.e002b5e6.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/rx6800xt.jpg": "/static/media/rx6800xt.77bc97cd856163ed3b4d.jpg",
@@ -33,10 +33,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.f3b1ccda.js.map": "/static/js/main.f3b1ccda.js.map"
+    "main.e002b5e6.js.map": "/static/js/main.e002b5e6.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.f3b1ccda.js"
+    "static/js/main.e002b5e6.js"
   ]
 }
