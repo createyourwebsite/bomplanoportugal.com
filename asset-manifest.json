@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.16dfd897.css",
-    "main.js": "/static/js/main.8dc56b14.js",
+    "main.js": "/static/js/main.63ca1425.js",
     "static/media/trolleymario.jpg": "/static/media/trolleymario.7427daf9b80cef977189.jpg",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/rowentarobo.jpg": "/static/media/rowentarobo.4cdf84956e4a022cdfef.jpg",
@@ -25,6 +25,7 @@
     "static/media/legoharry.jpg": "/static/media/legoharry.5947c4386e381ad80ecf.jpg",
     "static/media/fritadeira.jpg": "/static/media/fritadeira.522a1bec72fe52de023c.jpg",
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
+    "static/media/cozinha.jpg": "/static/media/cozinha.56ebd8c0d15fdadb36c2.jpg",
     "static/media/rx6700.jpg": "/static/media/rx6700.2c64c63c0b687280e407.jpg",
     "static/media/frigorifico.jpg": "/static/media/frigorifico.5680a4227e395cbfc9df.jpg",
     "static/media/trampolim2.jpg": "/static/media/trampolim2.952f67afb7f1b7c1e43b.jpg",
@@ -33,10 +34,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.16dfd897.css.map": "/static/css/main.16dfd897.css.map",
-    "main.8dc56b14.js.map": "/static/js/main.8dc56b14.js.map"
+    "main.63ca1425.js.map": "/static/js/main.63ca1425.js.map"
   },
   "entrypoints": [
     "static/css/main.16dfd897.css",
-    "static/js/main.8dc56b14.js"
+    "static/js/main.63ca1425.js"
   ]
 }
