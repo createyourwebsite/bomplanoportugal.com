@@ -1,7 +1,7 @@
 {
   "files": {
     "main.css": "/static/css/main.4a4ae21c.css",
-    "main.js": "/static/js/main.a1324bd2.js",
+    "main.js": "/static/js/main.f32770f6.js",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/monster.jpg": "/static/media/monster.5006fcc3ca3d2cb1cd87.jpg",
     "static/media/rowentarobo.jpg": "/static/media/rowentarobo.4cdf84956e4a022cdfef.jpg",
@@ -18,6 +18,7 @@
     "static/media/toast.jpg": "/static/media/toast.4d149d2d480a402e65d6.jpg",
     "static/media/passadeira.jpg": "/static/media/passadeira.cc7e44dced9a91ea976a.jpg",
     "static/media/frigorificohisense.jpg": "/static/media/frigorificohisense.c1a44e3270d639c10edf.jpg",
+    "static/media/cacharel.jpg": "/static/media/cacharel.66f5402112e49b28c38e.jpg",
     "static/media/aeg.png": "/static/media/aeg.a8e9840e383f35f1d15b.png",
     "static/media/cadeira.jpg": "/static/media/cadeira.658c7b6a5e8b56c26162.jpg",
     "static/media/alisador.jpg": "/static/media/alisador.cfac7e19bde231157b59.jpg",
@@ -40,10 +41,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.4a4ae21c.css.map": "/static/css/main.4a4ae21c.css.map",
-    "main.a1324bd2.js.map": "/static/js/main.a1324bd2.js.map"
+    "main.f32770f6.js.map": "/static/js/main.f32770f6.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4ae21c.css",
-    "static/js/main.a1324bd2.js"
+    "static/js/main.f32770f6.js"
   ]
 }
