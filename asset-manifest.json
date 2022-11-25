@@ -1,9 +1,12 @@
 {
   "files": {
     "main.css": "/static/css/main.4a4ae21c.css",
-    "main.js": "/static/js/main.f32770f6.js",
+    "main.js": "/static/js/main.a98355a2.js",
+    "static/media/rm1000x.jpg": "/static/media/rm1000x.6751b82388c493712cee.jpg",
     "static/media/maquinabarbear.jpg": "/static/media/maquinabarbear.a126fc63048d72ab3c15.jpg",
     "static/media/monster.jpg": "/static/media/monster.5006fcc3ca3d2cb1cd87.jpg",
+    "static/media/head.jpg": "/static/media/head.a589c2349cd2c1e7d70e.jpg",
+    "static/media/head2.jpg": "/static/media/head2.2945f3a36208e96f773a.jpg",
     "static/media/rowentarobo.jpg": "/static/media/rowentarobo.4cdf84956e4a022cdfef.jpg",
     "static/media/maquinalavarloica.jpg": "/static/media/maquinalavarloica.2b07f4897d8556d8476f.jpg",
     "static/media/irobot.jpg": "/static/media/irobot.fc2fb9cd36df9d8b16b3.jpg",
@@ -41,10 +44,10 @@
     "static/media/maquina.jpg": "/static/media/maquina.90e34a1fa838ac99cc23.jpg",
     "index.html": "/index.html",
     "main.4a4ae21c.css.map": "/static/css/main.4a4ae21c.css.map",
-    "main.f32770f6.js.map": "/static/js/main.f32770f6.js.map"
+    "main.a98355a2.js.map": "/static/js/main.a98355a2.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4ae21c.css",
-    "static/js/main.f32770f6.js"
+    "static/js/main.a98355a2.js"
   ]
 }
