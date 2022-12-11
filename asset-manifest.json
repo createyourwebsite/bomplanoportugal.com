@@ -1,23 +1,21 @@
 {
   "files": {
     "main.css": "/static/css/main.4a4ae21c.css",
-    "main.js": "/static/js/main.78f71a09.js",
+    "main.js": "/static/js/main.c26e99f3.js",
     "static/media/tvxiaomi.png": "/static/media/tvxiaomi.60953cb7efa7ba8f1a27.png",
-    "static/media/placa.jpg": "/static/media/placa.08c74cb3929d194c4be6.jpg",
-    "static/media/forno.jpg": "/static/media/forno.1cab0520cbe5830fd75f.jpg",
     "static/media/aegis.jpg": "/static/media/aegis.909ac2c0023631fda609.jpg",
-    "static/media/loica.jpg": "/static/media/loica.d19f2c316b77524c8cd4.jpg",
     "static/media/alisador.jpg": "/static/media/alisador.cfac7e19bde231157b59.jpg",
     "static/media/bib.jpg": "/static/media/bib.1d5ce1c162ee355185b9.jpg",
     "static/media/pawpatrol.jpg": "/static/media/pawpatrol.27bc7f2e788d8995fac4.jpg",
+    "static/media/monitor.jpg": "/static/media/monitor.efa7d0ef74897ecd5493.jpg",
     "static/media/trampolim2.jpg": "/static/media/trampolim2.952f67afb7f1b7c1e43b.jpg",
     "static/media/trampolim.jpg": "/static/media/trampolim.c57a614acfe9e9bb8642.jpg",
     "index.html": "/index.html",
     "main.4a4ae21c.css.map": "/static/css/main.4a4ae21c.css.map",
-    "main.78f71a09.js.map": "/static/js/main.78f71a09.js.map"
+    "main.c26e99f3.js.map": "/static/js/main.c26e99f3.js.map"
   },
   "entrypoints": [
     "static/css/main.4a4ae21c.css",
-    "static/js/main.78f71a09.js"
+    "static/js/main.c26e99f3.js"
   ]
 }
